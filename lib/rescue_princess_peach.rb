@@ -1,5 +1,5 @@
-def 
-  status = 
+def
+  status =
   puts "Hooray! Mario has rescued Princess Peach."
 end
 
@@ -10,7 +10,3 @@ end
 
 # rescue_princess_peach
 # puts status
-
-
-
-
